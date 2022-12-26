@@ -1,1 +1,6 @@
-mylogs.log
+/mylogs.log
+*.log
+ignore/
+
+
+NOte :- using " *. " we can ignore all the files with same extention.
