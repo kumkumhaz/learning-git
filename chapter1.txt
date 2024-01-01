@@ -1,3 +1,4 @@
 Hey, i am learning git.
-in chapter1 i have added alien-plot branch
+in chapter1 i have added alien-plot branch.
+Hey, I am learning merge and pull request.
 
